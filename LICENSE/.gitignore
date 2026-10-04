@@ -1,0 +1,24 @@
+# Vivado temporary and run directories
+*.runs/
+*.cache/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.gen/
+
+# Log and journal files
+*.log
+*.jou
+*.str
+*.tmp
+
+# Bitstreams and debug files
+*.bit
+*.bin
+*.ltx
+
+# OS files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
